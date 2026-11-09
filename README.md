@@ -102,4 +102,4 @@ The initial test execution completed successfully:
 
 Karima Ait Ahmid
 
-GitHub: https://github.com/Reemaamd
+GitHub: https://github.com/KarimaAitAhmid/Ecommerce-Selenium-Testing
